@@ -3,5 +3,7 @@ public class Test {
         System.out.println("For practice push");
 
         System.out.println("yes");
+        
+        // how to see changes after pull
     }
 }
