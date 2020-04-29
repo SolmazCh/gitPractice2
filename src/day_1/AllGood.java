@@ -7,5 +7,7 @@ public class AllGood {
 //for changes from github
 
 //just for practice I added this line from github
+
+        System.out.println("Don't worry, be happy");
     }
 }
