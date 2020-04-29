@@ -5,5 +5,7 @@ public class Test {
         System.out.println("yes");
         
         // how to see changes after pull
+        
+        //changes to practice git fetch and git merge
     }
 }
